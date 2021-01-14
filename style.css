@@ -1,0 +1,30 @@
+#logo_img{
+    width: 250px;
+}
+#banner_img{
+    width: 80%;
+}
+.nav-item{
+    margin-left: 25px;
+}
+#card_img, #product_card{
+    border-radius: 15px;
+}
+#card_img{
+    height: 300px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#lastimg{
+    width: 80px;
+}
+#last_bannar_img{
+    width: 90%;
+}
+.hr-style{
+    width:200px;
+}
+.form-group label{
+    font-weight: bold;
+}
